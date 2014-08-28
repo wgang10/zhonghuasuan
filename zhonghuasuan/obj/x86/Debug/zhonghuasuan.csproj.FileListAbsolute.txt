@@ -1,0 +1,13 @@
+D:\GitSource\zhonghuasuan\zhonghuasuan\bin\Debug\zhonghuasuan.exe
+D:\GitSource\zhonghuasuan\zhonghuasuan\bin\Debug\zhonghuasuan.pdb
+D:\GitSource\zhonghuasuan\zhonghuasuan\bin\Debug\HtmlAgilityPack.dll
+D:\GitSource\zhonghuasuan\zhonghuasuan\bin\Debug\HtmlAgilityPack.pdb
+D:\GitSource\zhonghuasuan\zhonghuasuan\bin\Debug\HtmlAgilityPack.xml
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\zhonghuasuan.Form1.resources
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\zhonghuasuan.Properties.Resources.resources
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\zhonghuasuan.exe
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\zhonghuasuan.pdb
+D:\GitSource\zhonghuasuan\zhonghuasuan\obj\x86\Debug\zhonghuasuan.CategoryPicture.resources
